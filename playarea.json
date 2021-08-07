@@ -1,0 +1,6 @@
+{
+    "title": "Playarea",
+    "description": "Die Playarea stellt einen interaktiven Bereich für den Spielenden dar, in dem Grafikinhalte bewegt, skaliert und rotiert werden können.Die Darstellung kann dabei über verschiedene Parameter felxibel angepasst werden.",
+    "image": "junctions.jpg",
+    "icon": "fas fa-play"
+}

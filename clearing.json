@@ -1,0 +1,6 @@
+{
+    "title": "Bereinigung von Lösungen",
+    "description": "Angegebene Lösungen können durch verschiedene Optionen bereinigt werden, so dass unnötige oder fehlerhafte Angaben nicht in die Bewertung der Eingabe einfließen. So können unter anderem Leerzeichen, Sonderzeichen und Groß-/Kleinschreibung harmonisiert werden.",
+    "image": "junctions.jpg",
+    "icon": "fas fa-equals"
+}
