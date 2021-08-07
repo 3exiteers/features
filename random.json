@@ -1,6 +1,6 @@
 {
     "title": "Randoms",
-    "description": "Randoms wählen den weiteren Verlauf der Geschichte zufällig aus.",
+    "description": "Randoms wählen den weiteren Verlauf der Geschichte durch zufällig Auswahl eines Kapitels ohne Beeinflussung durch den Spielenden aus.",
     "image": "junctions.jpg",
     "icon": "fas fa-dice"
 }
