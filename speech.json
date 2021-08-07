@@ -1,6 +1,6 @@
 {
-    "title": "Sprache",
+    "title": "Sprachausgabe",
     "description": "In den Geschichten und Herausforderungen können an beliebiger Stelle Sprache eingebettet werden. Die Sprachwiedergabe kann mit verschiedenen Optionen beeinflusst werden.",
     "image": "junctions.jpg",
-    "icon": "fa-comments"
+    "icon": "fas fa-comments"
 }
