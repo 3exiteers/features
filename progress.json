@@ -1,6 +1,6 @@
 {
     "title": "Fortschrittsanzeige",
     "description": "Anzeige des Spielfortschritts des Teams während des Spiels, sowie Möglichkeit für die Spielenden, die bisher erreichten Kapitel direkt anzuwählen. ",
-    "image": "junctions.jpg",
+    "image": "",
     "icon": "fas fa-chart-line"
 }

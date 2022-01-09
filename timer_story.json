@@ -1,6 +1,6 @@
 {
     "title": "Timer: Story",
-    "description": "Timer auf einer gesamten Story setzen dem Spielenden eine zeitliche Frist zur Absolvierung der gesamten Geschichte.",
-    "image": "timer.jpg",
+    "description": "Timer auf einer gesamten Story setzen dem Spielenden eine zeitliche Frist zum erreichen des finalen Kapitels.",
+    "image": "",
     "icon": "far fa-clock"
 }

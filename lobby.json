@@ -1,6 +1,6 @@
 {
     "title": "Lobby",
-    "description": "Für     Events kann ein Lobby-Bereich definiert werden, den die Spielenden erst nach Freigabe z.B. bei einem Event verlassen können. Mit dieser Funktion kann der gleichzeitige Start von Teams sichergestellt werden.",
-    "image": "junctions.jpg",
+    "description": "Für Events kann ein Lobby-Bereich definiert werden, den die Spielenden erst nach Freigabe z.B. bei einem Event verlassen können. Mit dieser Funktion kann der gleichzeitige Start von Teams sichergestellt werden.",
+    "image": "",
     "icon": "fab fa-watchman-monitoring"
 }
